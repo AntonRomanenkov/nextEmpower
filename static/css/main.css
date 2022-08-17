@@ -1,0 +1,107 @@
+@font-face {
+	font-family: 'GTWalsheimPro';
+	src: url('../fonts/GTWalsheimProRegular.eot');
+    src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), 
+        url('../fonts/GTWalsheimProRegular.woff2') format('woff2'), 
+        url('../fonts/GTWalsheimProRegular.woff?') format('woff');
+	font-weight: normal;
+	font-style: normal
+}
+* {
+    font-family: GTWalsheimPro;
+}
+.Home-Blog-About-Empo {
+    height: 16px;
+    /* margin-top: 54px;
+    margin-left: 198px; */
+    font-family: GTWalsheimPro;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.3px;
+    color: #333333;
+    list-style: none;
+    display: flex;
+}
+.form-box {
+    position: relative;
+    margin-top: 100px;
+}
+.main-form {
+    max-width: 600px;
+    /* opacity: 0.935; */
+    border-radius: 4px;
+    background-color: #ffffff85;
+}
+.Fill-2 {
+    width: 100px;
+    margin-top: -40px;
+    opacity: 0.75;
+}
+.EWTS {
+    width: 233px;
+    height: 83px;
+    opacity: 0.75;
+    font-family: GTWalsheim;
+    font-size: 72px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 5px;
+    text-align: center;
+    color: #ffffff;
+}
+.Empower-waste-tracki {
+    width: 396px;
+    height: 56px;
+    font-family: GTWalsheim;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}
+.form-title {
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+}
+.hx-50 {
+    height: 50px;
+}
+.Great-we-will-back {
+    font-family: GTWalsheimPro;
+    padding: 123px 95px 35px 95px;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+}
+.Rectangle-Copy-6 {
+    height: 50px;
+    border-radius: 4px;
+    background-color: #1be44f;
+}
+.w-40 {
+    width: 40%!important;
+}
+.w-30 {
+    width: 30%!important;
+}
+.w-20 {
+    width: 20%!important;
+}
